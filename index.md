@@ -21,3 +21,5 @@ You need to send a POST request to https://kart-j0it.onrender.com/v1/ with the f
 # Using Kart's response
 Kart returns 2 JSON keys, `content` and 'model', as you can probably guess by the name, `model` contains the model name.
 `content` contains the model's response
+# Models
+Get the current list of models at https://kart-j0it.onrender.com/models/ and use the `models` JSON key.
