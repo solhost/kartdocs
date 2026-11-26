@@ -1,5 +1,5 @@
 ![kartlogo](kartlogo.png)
-# Kart API documentation (1.12.0)
+# Kart API documentation (1.12.3)
 ## What is Kart?
 Kart is a free inference provider, by the community for the community.
 # Client Integrity
